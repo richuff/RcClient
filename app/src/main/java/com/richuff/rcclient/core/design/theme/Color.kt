@@ -1,4 +1,5 @@
 package com.richuff.rcclient.core.design.theme
+import androidx.annotation.ColorInt
 import androidx.compose.ui.graphics.Color
 
 val primaryLight = Color(0xFF455E91)
