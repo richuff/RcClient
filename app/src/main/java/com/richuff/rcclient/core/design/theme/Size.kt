@@ -7,6 +7,9 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
 
 val marginSmall = 5.dp
+val marginMid = 10.dp
+val midIcon = 30.dp
+val largeImage = 50.dp
 
 @Composable
 fun MarginSmallSpacer() {
